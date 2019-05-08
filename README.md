@@ -1,6 +1,6 @@
 ## SchedulerAPI
 
-#This project has not been updated since Spigot 1.8.9, there is not guarantee that it will work with further versions!
+# This project has not been updated since Spigot 1.8.9, there is not guarantee that it will work with further versions!
 
 An API dealing with the non-user-friendliness of the Bukkit API's Scheduler component.
 
