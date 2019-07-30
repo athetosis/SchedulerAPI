@@ -2,6 +2,8 @@
 
 # Project has not been updated since Spigot 1.8; No guarantees that it'll work with new versions!
 
+# Confirmed to not work with Spigot 1.13 or higher!
+
 An API dealing with the non-user-friendliness of the Bukkit API's Scheduler component.
 
 <b>To Use:</b> Copy/Paste the contents of the SchedulerAPI.java into a new class called SchedulerAPI in your bukkit plugin.
